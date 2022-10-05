@@ -1,0 +1,26 @@
+{
+  "name": "body-volume-api-tests",
+  "version": "0.1.0",
+  "description": "testing of the body volume api using jest",
+  "main": "index.js",
+  "repository": "https://github.com/DeadEnglish/bvi-api-test",
+  "author": "Liam Canetti",
+  "license": "GPLv3",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch-all"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+	"@types/jest": "^29.1.1",
+    "dotenv": "^16.0.3",
+    "form-data": "^4.0.0",
+    "jest": "^29.1.2",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
