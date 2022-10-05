@@ -16,7 +16,6 @@ API_KEY_LIMIT_EXCEEDED=
 
 ## Installation
 
-#
 
 run `yarn` to install all project dependencies. That's it!
 <br/>
@@ -24,7 +23,6 @@ run `yarn` to install all project dependencies. That's it!
 
 ## Available Scripts
 
-#
 
 ### `yarn test`
 
@@ -37,8 +35,6 @@ This allows you to initially run the tests and then watch for any changes to re-
 <br/>
 
 ## Notes
-
-#
 
 ### User Data
 
